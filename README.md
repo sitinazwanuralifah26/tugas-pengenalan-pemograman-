@@ -18,9 +18,9 @@ Tipe data yang digunakan:
 - Boolean: status mahasiswa
 
 Program ini menampilkan nama, umur, tinggi badan, dan status mahasiswa.
+Program berhasil dijalankan pada google collab 
+![Screenshot Identitas](screenshots/identitas-python.png)
 
-
-#### Tugas 2 - Kasir Sederhana (kasir.py)
 
 Program ini digunakan untuk menghitung total belanja sendal dengan diskon Rp5000 per barang
 
