@@ -18,12 +18,6 @@ Tipe data yang digunakan:
 - Boolean: status mahasiswa
 
 Program ini menampilkan nama, umur, tinggi badan, dan status mahasiswa.
-Program berhasil dijalankan pada google collab 
-
-## Hasil Program Python
-
-### 1. Program Identitas Diri
-![Screenshot Identitas](screenshots/identitas-python.png) 
 
 
 Program ini digunakan untuk menghitung total belanja sendal dengan diskon Rp5000 per barang
