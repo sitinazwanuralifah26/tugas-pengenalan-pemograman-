@@ -35,7 +35,7 @@ Program menghitung total harga, diskon, dan jumlah pembayaran secara otomatis.
 
 ## Screenshot Hasil Program
 
-![Hasil Program Identitas](identitas-pyhon.png). 
+![Hasil Program Identitas](identitas-python.png). 
 
 ![Hasil Program Kasir](kasir-python.png)
 
