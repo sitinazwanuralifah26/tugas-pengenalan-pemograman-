@@ -32,3 +32,7 @@ Data barang:
 - Total pembayaran: Rp135.000
 
 Program menghitung total harga, diskon, dan jumlah pembayaran secara otomatis.
+
+## Screenshot Hasil Program
+
+![Hasil Program Kasir](kasir.png)
