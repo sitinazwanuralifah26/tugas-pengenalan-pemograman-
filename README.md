@@ -19,7 +19,11 @@ Tipe data yang digunakan:
 
 Program ini menampilkan nama, umur, tinggi badan, dan status mahasiswa.
 Program berhasil dijalankan pada google collab 
-![Screenshot Identitas](screenshotsidentitas-python.jpg)
+
+## Hasil Program Python
+
+### 1. Program Identitas Diri
+![Screenshot Identitas](screenshots/identitas-python.png) 
 
 
 Program ini digunakan untuk menghitung total belanja sendal dengan diskon Rp5000 per barang
