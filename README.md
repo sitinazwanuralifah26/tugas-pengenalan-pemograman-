@@ -19,7 +19,7 @@ Tipe data yang digunakan:
 
 Program ini menampilkan nama, umur, tinggi badan, dan status mahasiswa.
 
-
+### Tugas 2 - Kasir Sederhana
 Program ini digunakan untuk menghitung total belanja sendal dengan diskon Rp5000 per barang
 
 Data barang:
