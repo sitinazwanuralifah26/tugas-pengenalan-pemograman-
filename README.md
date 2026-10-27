@@ -1,7 +1,9 @@
 Session 3 - Tugas Pemrograman
 
 Nama: Siti Nazwa Nuralifah
+
 NIM: 26552011212
+
 Kelas: TIF RP 26F
 
 Tugas 1 - Identitas Diri (identitas.py)
