@@ -18,6 +18,11 @@ Tipe data yang digunakan:
 - Boolean: status mahasiswa
 
 Program ini menampilkan nama, umur, tinggi badan, dan status mahasiswa.
+## Hasil Program
+
+### 1. Identitas Diri Python
+![Hasil Identitas Python](screenshots/kartu identitas-python.png)
+
 
 Tugas 2 - Kasir Sederhana (kasir.py)
 
